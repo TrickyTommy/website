@@ -15,7 +15,7 @@ export default class Document extends NextDocument {
         <Head>
           <meta charSet="UTF-8" />
           <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
-          <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+          <link rel="shortcut icon" href="/tommy.png" type="image/x-icon" />
         </Head>
 
         <body>
