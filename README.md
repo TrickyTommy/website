@@ -1,3 +1,3 @@
-# trickytommy.vercel.app
+# <https://trickytommy.now.sh>
 
 Personal website
