@@ -2,7 +2,6 @@ import { Box, ChakraProvider } from "@chakra-ui/core";
 
 import { DefaultSeo } from "next-seo";
 import Head from "next/head";
-import React from "react";
 import siteConfig from "~/site-config";
 import theme from "~/src/theme";
 
