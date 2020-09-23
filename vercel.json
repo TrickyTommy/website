@@ -1,0 +1,9 @@
+{
+  "alias": [
+    "tommyf.vercel.app"
+  ],
+  "github": {
+    "autoAlias": true,
+    "enabled": true
+  }
+}

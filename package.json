@@ -1,0 +1,16 @@
+{
+  "name": "@trickytommy/website",
+  "scripts": {
+    "build": "next build",
+    "dev": "next"
+  },
+  "dependencies": {
+    "@chakra-ui/core": "^1.0.0-rc.3",
+    "next": "^9.5.3",
+    "next-seo": "^4.7.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-icons": "^3.11.0"
+  },
+  "devDependencies": {}
+}
