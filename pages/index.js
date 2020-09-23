@@ -1,28 +1,8 @@
 import * as React from "react";
 
 import { Button, Heading, Icon, Stack, Wrap } from "@chakra-ui/core";
-import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 
-const socials = [
-  {
-    name: "GitHub",
-    href: "https://github.com/TrickyTommy",
-    SocialIcon: FaGithub,
-    colorScheme: "gray",
-  },
-  {
-    name: "LinkedIn",
-    href: "https://www.linkedin.com/in/tommy-ferdian-hadimarta",
-    SocialIcon: FaLinkedin,
-    colorScheme: "linkedin",
-  },
-  {
-    name: "Twitter",
-    href: "https://twitter.com/TrickyTommy089",
-    SocialIcon: FaTwitter,
-    colorScheme: "twitter",
-  },
-];
+import socials from "~/src/socials";
 
 export default function HomePage() {
   return (
