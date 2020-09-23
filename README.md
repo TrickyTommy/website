@@ -1,3 +1,3 @@
-# <https://trickytommy.now.sh>
+# <https://tommyf.now.sh>
 
 Personal website
